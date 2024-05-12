@@ -163,8 +163,6 @@ end
 endmodule
 ```
 OYTPUT WAVEFORM
- 
-![image](https://github.com/Lokeshmb005/VLSI-LAB-EXP-2/assets/159941167/2f73d88a-01c0-4e21-8f2d-3465464bf7f6)
 
 ![image](https://github.com/Lokeshmb005/VLSI-LAB-EXP-2/assets/159941167/dee082e1-1762-4166-b4d8-18649f2227c0)
 
